@@ -8,8 +8,8 @@
 
 ## 卡片圖例
 
-![Card1](image/Screen2019-01-29 14.21.10.png)
-![Card2](image/Screen2019-01-29 14.21.16.png)
+![Card1](image/Card1.png)
+![Card2](image/Card2.png)
 
 
 ## Change Log:
