@@ -8,9 +8,8 @@
 
 ## 卡片圖例
 
-![Card1](image/Card1.png | width=600)
-![Card2](image/Card2.png | width=600)
-
+<img src="image/Card1.png" alt="drawing" width="400"/>  
+<img src="image/Card2.png" alt="drawing" width="400"/>
 
 ## Change Log:
 
