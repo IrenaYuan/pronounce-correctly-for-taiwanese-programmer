@@ -4,12 +4,12 @@
 
 目前有 `69張卡片`
 
->> 部分卡片有說明，未來會慢慢補足。
+> 部分卡片有說明，未來會慢慢補足。
 
 ## 卡片圖例
 
-![Card1][image/Screen2019-01-29 14.21.10.png]
-![Card2][image/Screen2019-01-29 14.21.16.png]
+![Card1](image/Screen2019-01-29 14.21.10.png)
+![Card2](image/Screen2019-01-29 14.21.16.png)
 
 
 ## Change Log:
